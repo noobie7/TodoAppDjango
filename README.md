@@ -1,4 +1,4 @@
-# Your Project Name - Backend
+# To Do - Backend 
 
 This is the backend for ToDo. It is built with Django and Django Rest Framework.
 
